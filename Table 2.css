@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+
+.table-1, .table-2 {
+    width: 800px;
+    height: 150px;
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 30px;
+}
+
+tr, td, th {
+    background-color: rgba(196, 196, 196, 0.941);
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+    color: maroon;
+}
+
+#coluna-1 {
+    text-align: center;
+    height: 100px;
+}
+
+#coluna-2 {
+    text-align: center;
+    height: 300px;
+}
+
+#coluna-3 {
+    text-align: center;
+    height: 50px;
+}

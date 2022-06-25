@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+.table-1, .table-2, .table-3{
+    width: 400px;
+    height: 300px;
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 30px;
+}
+
+tr, td {
+    background-color: rgba(196, 196, 196, 0.941);
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+    color: maroon;
+    
+}
